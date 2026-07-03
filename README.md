@@ -72,8 +72,8 @@ The app reads from two workbooks:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-org>/crimedash.git
-cd crimedash
+git clone https://github.com/Narayanansankar/thoothukudi-crime-map.git
+cd thoothukudi-crime-map
 ```
 
 ### 2. Python environment
